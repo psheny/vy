@@ -2957,7 +2957,10 @@ ol {
 
 .podlink:hover {
 	color: #9f2000;
+}
 
+.podlink:after {
+	color: #da4f2d;
 }
 
 .spotify {
